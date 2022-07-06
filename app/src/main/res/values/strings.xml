@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetPackLogin</string>
+    <string name="sign_in_welcome_text">Welcome \nBack</string>
+    <string name="sign_in">SignIn</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="hide_password">hide password</string>
+    <string name="show_password">show password</string>
+</resources>
